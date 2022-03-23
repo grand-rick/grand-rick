@@ -16,7 +16,7 @@
 - 👯 I’m looking forward to these next few years, and see where it goes.
 - 📫 How to reach me **kabugap9@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live, and it's tomato not tomato, Jeez!.
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live, and it's tomato not tomato, Jeez!
 
 <br>
 
