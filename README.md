@@ -80,4 +80,4 @@
 <br>
 
 
-[Portfolio-Website](https://grandrick.ga)
+<!-- [Portfolio-Website](https://grandrick.ga) -->
