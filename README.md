@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development, more specifically React.js and C language.
 - 👯 I’m looking forward to these next few years, and see where it goes.
-- 📫 Reach me at **kabugap9@gmail.com**
+- 📫 Reach me at **grandrick.business@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live, and it's tomato not tomato, Jeez!
 
