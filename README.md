@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick Kabuga</h1>
+<h1 align="center">Hi 👋, Good to see you here</h1>
 <h3 align="center">Student at University of Eldoret🌟.</h3>
 
 <br>
