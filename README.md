@@ -22,16 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/patrick-murimi-28505521b/" target="_new"><img align="center"
+  <a href="https://www.linkedin.com/in/patrick-murimi-28505521b/" target="new"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Patrick Kabuga" height="30" width="40" /></a> <a href="https://www.facebook.com/patrickkabuga097/" target="_new"><img align="center"
+      alt="Patrick Kabuga" height="30" width="40" /></a> <a href="https://www.facebook.com/patrickkabuga097/" target="new"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Patrick Kabuga" height="30" width="40" /></a> <a href="https://www.instagram.com/_.maytrix/" target="_new"><img align="center"
+      alt="Patrick Kabuga" height="30" width="40" /></a> <a href="https://www.instagram.com/_.maytrix/" target="new"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_.Maytrixx" height="30" width="40" /></a> <a href="https://www.hackerrank.com/kabugap02" target="_new"><img align="center"
+      alt="_.Maytrixx" height="30" width="40" /></a> <a href="https://www.hackerrank.com/kabugap02" target="new"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="grandrick001" height="30" width="40" /></a>
-      <a href="https://twitter.com/patrick_kabuga" target="_new"><img align="center"
+      <a href="https://twitter.com/patrick_kabuga" target="new"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="@patrick_kabuga" height="30" width="40" /></a> 
 </p>
