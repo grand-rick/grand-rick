@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, Good to see you here!</h1>
-<h3 align="center">I'm a Computer science student at the Student at University of Eldoret🌟.</h3>
+<h3 align="center">I'm a Computer science student🌟 and a frontend wen developer.</h3>
 
 <br>
 
