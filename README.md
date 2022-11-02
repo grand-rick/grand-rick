@@ -12,8 +12,8 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m learning React.js.
 - 👯 I’m based in Kenya.
+- 🌱 I’m learning React.js.
 - 📫 You can reach me at **kabugap02@gmail.com**
 - 🎫 I'm open to collaborating on frontend projects
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live, and it's tomato not tomato, Jeez!
