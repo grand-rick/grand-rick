@@ -1,5 +1,4 @@
 <h1 align="center">Hi! 👋, Good to see you here!</h1>
-<h3 align="center">I'm a Computer Science Student🌟 and a Frontend Web Developer!</h3>
 
 <br>
 
