@@ -34,5 +34,5 @@
 <!-- #### Thanks for visiting my GitHub profile <br> ***Credits - [VishwaGauravIn](https://github.com/VishwaGauravIn)*** -->
 ---
 <p align="center">
-<img src="https://github.com/ooalberto/github-contribution-grid-snake.svg">
+<img src="https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg">
 </p>
