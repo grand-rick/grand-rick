@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Fullstack Javascript Web Development
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about Fullstack internal workflow process
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live
 
