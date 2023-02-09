@@ -5,10 +5,10 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer-coding" /></p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on Fullstack Javascript Web Development
+- 🔭 I’m working on Fullstack Javascript Web Development
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
 - 🌱 I’m currently learning Angular
-- 💬 Ask me about Fullstack internal workflow process
+- 💬 Ask me about the Fullstack internal workflow process
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live
 
 <br>
