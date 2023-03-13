@@ -45,27 +45,27 @@
 
 
 ### Web Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://docs.netlify.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)](https://docs.github.com/en/pages)
 
 ### Package Manager
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/lang/en/docs/)
 
 ### Code Styling
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/docs/en/index.html)
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/en)
 
 ### Testing
 [![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)](https://jasmine.github.io/)
 
 ### Documentation
-![Documentation](https://img.shields.io/badge/docusaurus-%25c2a0.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
+[![Documentation](https://img.shields.io/badge/docusaurus-%25c2a0.svg?style=for-the-badge&logo=docusaurus&logoColor=white)](https://docusaurus.io/docs/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=grand-rick001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
