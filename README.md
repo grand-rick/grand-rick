@@ -64,6 +64,9 @@
 ### Testing
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
+### Documentation
+![Documentation](https://img.shields.io/badge/docusaurus-%25c2a0.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=grand-rick001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=grand-rick001&theme=midnight-purple&hide_border=false)<br/>
