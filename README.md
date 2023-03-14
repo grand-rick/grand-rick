@@ -90,6 +90,6 @@
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17474012) -->
 
 ---
-<p align="center">
+<!-- <p align="center">
 <img src="github-contribution-grid-snake.svg">
-</p>
+</p> -->
