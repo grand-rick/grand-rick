@@ -1,15 +1,15 @@
-<h1 align="center">Hi! 👋, Good to see you here!</h1>
+<h1 align="center">Hi, I'm Patrick 👋👨🏾‍💻</h1>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer-coding" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="35%" alt="developer-coding" /></p>
 
 # 💫 About Me:
 - 🔭 I’m working on Fullstack Javascript Web Development
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💬 Ask me about the Fullstack internal workflow process
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live
+- ⚡ Fun fact :- When I'm not coding, you'll find me listening to Music🎵 or watching Anime🎇
 
 <br>
 
@@ -90,6 +90,6 @@
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17474012) -->
 
 ---
-<!-- <p align="center">
+<p align="center">
 <img src="github-contribution-grid-snake.svg">
-</p> -->
+</p>
