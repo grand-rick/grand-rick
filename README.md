@@ -9,9 +9,8 @@
 # 💫 About Me:
 - 🔭 I’m working on Fullstack Javascript Web Development
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
-- 🌱 I’m currently learning React
-- 💬 Ask me about the Fullstack internal workflow process
-- ⚡ Fun fact :- When I'm not coding, you'll find me listening to Music🎵 or watching Anime🎇
+- 🌱 I’m currently learning Angular
+- ⚡ Fun fact :- When I'm not coding, you'll find me listening to Music🎵 or reading manga🎇
 
 <br>
 
