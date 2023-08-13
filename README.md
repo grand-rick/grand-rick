@@ -81,14 +81,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-### 💭Favourite Quote
-```
-If you're guided by the spirit of honest inquiry and every word you say is reflective of what you
-believe to be the truth, then the pathway you walk on, is a golden pathway to success.
-
-~ Jordan Peterson
-```
 ---
 ![](https://komarev.com/ghpvc/?username=your-grand-rick001&label=PROFILE+VIEWS)
 
