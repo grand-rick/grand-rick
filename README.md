@@ -2,7 +2,7 @@
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/grandrick001?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgrandrick001&screen_name=grandrick001)
+[![Twitter Follow](https://img.shields.io/twitter/follow/patrick_murimi_?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgrandrick001&screen_name=patrick_murimi_)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="35%" alt="developer-coding" /></p>
 
