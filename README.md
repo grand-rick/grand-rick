@@ -8,9 +8,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="35%" alt="developer-coding" /></p>
 
 # 💫 About Me:
-- 🔭 I’m working on Fullstack Javascript Web Development
+- 🔭 I’m currently working on [Data Structures and Algorithms](https://leetcode.com/grand-rick001)
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
-- 🌱 I’m currently learning Angular
+- 🌱 I’m learning Angular
 - ⚡ Fun fact :- When I'm not coding, you'll find me listening to Music🎵 or reading manga🎇
 
 <br>
