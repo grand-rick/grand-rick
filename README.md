@@ -93,33 +93,6 @@
 ## Hark! A tale of badges doth I weave, earned in the grand contest of Hacktoberfest.
 [![An image of @grandrick001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/grandrick001)](https://holopin.io/@grandrick001)
 
-```
-From pixels I rose, a Phoenix of code,
-Hacktoberfest's crucible where legends explode.
-Badges glint like scales, each hard-won prize,
-Bronze whispers promise, silver paints the skies.
-
-Bugs, mere gnats, swatted by logic's blade,
-Quests devoured, code a symphony played.
-Keystrokes like whispers, secrets yet untold,
-Unraveling riddles, worth more than pure gold.
-
-So marvel, ye mortals, at this coding feat,
-My badges, a constellation, eternally sweet.
-Sapphire and ruby, a celestial crown,
-For I tamed the byte-beast, its chaos unbound.
-
-Now tremble, ye errors, my reign has no end,
-My keyboard, a comet, your glitches suspend.
-With pixels I waltz, a maestro of light,
-Hacktoberfest conquered, bathed in victory's white!
-
-This ode, self-sung, on binary winds shall fly,
-A testament to the coder, who soared to the sky.
-So let circuits whisper, in every machine's hum,
-The saga of Hacktoberfest, where legends come!
-```
-
 ---
 <p align="center">
 <img src="github-contribution-grid-snake.svg">
