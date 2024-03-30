@@ -8,7 +8,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="35%" alt="developer-coding" /></p>
 <br>
-<!--
+
 # 💫 About Me:
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://leetcode.com/grand-rick001)
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
@@ -16,10 +16,11 @@
 - ⚡ Fun fact :- When I'm not coding, you'll find me listening to Music🎵 or reading manga🎇
 
 <br>
--->
-<!--
+
 # 💻 Tech Stack:
+
 ### Languages
+
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/tutorial/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -30,6 +31,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 
 ### Framework / Library
+
 [![Angular](https://img.shields.io/badge/angular-%23dd00319a.svg?style=for-the-badge&logo=angular&logoColor=%23ffffff)](https://angular.io)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/docs/getting-started.html)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
@@ -38,6 +40,7 @@
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 
 ### Design/Visual Tools
+
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/developers)
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://helpx.adobe.com/illustrator/user-guide.html)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://helpx.adobe.com/photoshop/user-guide.html)
@@ -73,7 +76,6 @@
 
 ### Documentation
 [![Documentation](https://img.shields.io/badge/docusaurus-%25c2a0.svg?style=for-the-badge&logo=docusaurus&logoColor=white)](https://docusaurus.io/docs/)
--->
 <!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=grand-rick001&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=grand-rick001&theme=midnight-purple&hide_border=false)<br/> -->
