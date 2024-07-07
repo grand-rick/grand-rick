@@ -10,7 +10,7 @@
 <br>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Data Structures and Algorithms](https://leetcode.com/grand-rick001)
+- 🔭 I’m currently working on [Software Design](https://github.com/grand-rick001/design-patterns)
 - 👯 I’m looking to collaborate on open-source frontend and/or backend projects
 - 🌱 I’m learning Angular
 - ⚡ Fun fact :- When I'm not coding, you'll find me listening to Music🎵 or reading manga🎇
